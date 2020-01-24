@@ -8,7 +8,7 @@ A JavaScript class is a type of function. Classes are declared with the class ke
 
 ## Links and Resources
 
-- [submission PR]
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/Lab-Class-02/pull/1)
 - [ci/cd]
 
 ## Setup
