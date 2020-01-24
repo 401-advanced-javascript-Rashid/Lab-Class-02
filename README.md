@@ -9,7 +9,7 @@ A JavaScript class is a type of function. Classes are declared with the class ke
 ## Links and Resources
 
 - [submission PR](https://github.com/401-advanced-javascript-Rashid/Lab-Class-02/pull/1)
-- [ci/cd]
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/Lab-Class-02/runs/407878784?check_suite_focus=true)
 
 ## Setup
 npm i jest eslint
