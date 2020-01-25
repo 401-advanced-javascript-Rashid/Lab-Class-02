@@ -29,6 +29,7 @@ npm i jest eslint
 
 - How do you run tests?
      - 'npm test'
+     - 'npm run lint'
 ____
 - Any tests of note?
   - test: "jest --verbose --coverage"
