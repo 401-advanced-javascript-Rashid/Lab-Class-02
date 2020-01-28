@@ -37,4 +37,5 @@ ____
 ____
 #### UML
 
-https://raw.githubusercontent.com/401-advanced-javascript-Rashid/Lab-Class-02/vehicle/assets/1.jpg
+- https://raw.githubusercontent.com/401-advanced-javascript-Rashid/Lab-Class-02/vehicle/assets/1.jpg
+- https://raw.githubusercontent.com/401-advanced-javascript-Rashid/Lab-Class-02/vehicle/assets/2.jpg
